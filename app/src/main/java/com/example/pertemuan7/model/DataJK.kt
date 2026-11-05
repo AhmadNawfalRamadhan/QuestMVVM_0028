@@ -4,7 +4,7 @@ import com.example.pertemuan7.R
 
 object DataJK {
     val JenisK = listOf(
-        R.string.laki,
-        R.string.wanita
+        R.string.Laki,
+        R.string.Wanita
     )
 }
